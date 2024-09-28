@@ -1,0 +1,16 @@
+
+.react-calendar {
+    color: black; 
+  }
+  
+  .react-calendar__tile {
+    color: black;
+  }
+  
+  .react-calendar__tile--now {
+    background-color: #f0f0f0; 
+    color: black; 
+  }
+  
+
+  

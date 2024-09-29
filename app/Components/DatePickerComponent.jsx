@@ -1,4 +1,4 @@
-'use client'; // Client-side component
+'use client'; 
 
 import React, { useState } from 'react';
 import Calendar from 'react-calendar';
